@@ -66,9 +66,9 @@ class FileController extends Controller
         if ($dl->user_id == Auth::id()) {
             return Storage::download($dl->path, $dl->title);
         } else {
-            //echo "Its not your file!";
-            $error = "Its not your file!";
-            return view('file.index', ['error' => $error]);
+            echo "Its not your file!";
+/*            $error = "Its not your file!";
+            return view('file.index', ['error' => $error]);*/
         }
     }
 

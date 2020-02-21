@@ -21,7 +21,6 @@ Route::get('/', function () {
 });
 
 
-
 Route::get('/file','FileController@index')->name('viewfile')->middleware('auth');
 
 Route::get('/file/upload','FileController@create')->name('formfile')->middleware('auth');

@@ -5,9 +5,9 @@
     <p>
         <a href="{{ route('formfile') }}" class="btn btn-primary">Upload File</a>
     </p>
-    @if($error)
+  {{--  @if($error)
         <div>{{ $error }}</div>
-    @endif
+    @endif--}}
     <div class="row">
         @foreach($files as $file)
         <div class="col-md-4">

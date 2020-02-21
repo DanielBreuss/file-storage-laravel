@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="43458921-7579-443a-a7d5-1112d37c7395" name="Default Changelist" comment="" />
+    <list default="true" id="43458921-7579-443a-a7d5-1112d37c7395" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Auth/RegisterController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Auth/RegisterController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/FileController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/FileController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Client.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/auth.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/auth.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_clients_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/file/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/file/index.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,6 +22,9 @@
     <execution>
       <executable />
     </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -101,6 +114,7 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1XI1i6forQwItGjtVIFfNKloDLH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -109,7 +123,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../lara.test" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RunManager">
@@ -131,7 +145,23 @@
       <workItem from="1580718921582" duration="18955000" />
       <workItem from="1580751824889" duration="8288000" />
       <workItem from="1580792202325" duration="803000" />
-      <workItem from="1580801873501" duration="2484000" />
+      <workItem from="1580801873501" duration="3125000" />
+      <workItem from="1580808625341" duration="1167000" />
+      <workItem from="1580812406241" duration="21000" />
+      <workItem from="1580818449071" duration="75000" />
+      <workItem from="1580820066814" duration="901000" />
+      <workItem from="1580843440880" duration="77000" />
+      <workItem from="1580895805862" duration="188000" />
+      <workItem from="1580980051506" duration="954000" />
+      <workItem from="1581062044253" duration="1469000" />
+      <workItem from="1581075057451" duration="210000" />
+      <workItem from="1581261189632" duration="692000" />
+      <workItem from="1581580378734" duration="719000" />
+      <workItem from="1581594207259" duration="2895000" />
+      <workItem from="1581667220840" duration="1221000" />
+      <workItem from="1581940337318" duration="11000" />
+      <workItem from="1582281200015" duration="832000" />
+      <workItem from="1582282863755" duration="466000" />
     </task>
     <servers />
   </component>
@@ -143,14 +173,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="378" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728@0.0.1366.728" timestamp="1580727190953" />
-    <state x="467" y="117" key="FileChooserDialogImpl" timestamp="1580753241303">
+    <state x="467" y="117" key="FileChooserDialogImpl" timestamp="1581596089950">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="467" y="117" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1580753241303" />
-    <state x="378" y="186" key="com.intellij.ide.util.TipDialog" timestamp="1580801873489">
+    <state x="467" y="117" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1581596089950" />
+    <state x="378" y="186" width="606" height="356" key="com.intellij.ide.util.TipDialog" timestamp="1581075066232">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="378" y="186" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1580801873489" />
+    <state x="378" y="186" width="606" height="356" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1581075066232" />
     <state x="343" y="52" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1580719126464">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -159,9 +189,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="332" y="157" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1580761936696" />
-    <state x="339" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1580792608622">
+    <state x="339" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1582282131072">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="339" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1580792608622" />
+    <state x="339" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1582282131072" />
   </component>
 </project>
