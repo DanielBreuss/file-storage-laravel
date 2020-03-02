@@ -15,3 +15,5 @@ How to setup this project:
 3) Copy an .env.example file and paste as .env
 4) Create database "laravel"
 5) Migrate
+
+Created by Daniil Breus.
